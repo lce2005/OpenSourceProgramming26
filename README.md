@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦺 SafeStep
+# SafeStep
 ### Intelligent Fall Detection & Location-Aware Emergency Response System
 
 **MediaPipe · ResNet18 · TTS/STT · Real-time Vision**
